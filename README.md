@@ -1,11 +1,11 @@
 # images-verify
 Temporary repo for image import code proof
 
-Time of test: 2022-06-19, 09:35am (UTC)
+Time of test: 2023-08-31, 11:45am (BST)
 
-289 Products in feed
-1849 Total Images
-1849 Succeeded with 200 code
+300 Products in feed
+1666 Total Images
+1666 Succeeded with 200 code
 0 Failures
 
 
